@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/master.swiftdeps"
+  },
+  "/Users/matrix01/Documents/Github/DSALib/Tests/DSALibTests/DSALibTests.swift": {
+    "dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/DSALibTests.d",
+    "object": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/DSALibTests.swift.o",
+    "swiftmodule": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/DSALibTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/DSALibTests.swiftdeps"
+  }
+}

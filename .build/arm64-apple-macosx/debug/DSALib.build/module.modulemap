@@ -1,0 +1,4 @@
+module DSALib {
+    header "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib-Swift.h"
+    requires objc
+}

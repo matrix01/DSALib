@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/master.swiftdeps"
+  },
+  "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/DSALib.swift": {
+    "dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib.d",
+    "object": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib.swift.o",
+    "swiftmodule": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib~partial.swiftmodule",
+    "swift-dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib.swiftdeps"
+  },
+  "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/Sorting.swift": {
+    "dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/Sorting.d",
+    "object": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/Sorting.swift.o",
+    "swiftmodule": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/Sorting~partial.swiftmodule",
+    "swift-dependencies": "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/Sorting.swiftdeps"
+  }
+}

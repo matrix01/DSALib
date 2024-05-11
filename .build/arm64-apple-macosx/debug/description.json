@@ -1,0 +1,409 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibPackageTests.xctest/Contents/MacOS/DSALibPackageTests",
+      "packagePath" : "/Users/matrix01/Documents/Github/DSALib",
+      "productName" : "DSALibPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.DSALib-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/sources",
+      "importPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/DSALib.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/Sorting.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DSALib",
+      "moduleOutputPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.swiftmodule",
+      "objects" : [
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib.swift.o",
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/Sorting.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "dsalib"
+      ],
+      "outputFileMapPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/Sorting.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/DSALib.swift",
+        "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/Sorting.swift"
+      ],
+      "tempsPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DSALibTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/sources",
+      "importPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/Tests/DSALibTests/DSALibTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DSALibTests",
+      "moduleOutputPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.swiftmodule",
+      "objects" : [
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/DSALibTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "dsalib"
+      ],
+      "outputFileMapPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/DSALibTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matrix01/Documents/Github/DSALib/Tests/DSALibTests/DSALibTests.swift"
+      ],
+      "tempsPath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "DSALib" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DSALib",
+      "-package-name",
+      "dsalib",
+      "-incremental",
+      "-c",
+      "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/DSALib.swift",
+      "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/Sorting.swift",
+      "-I",
+      "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "dsalib",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DSALibTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DSALibTests",
+      "-package-name",
+      "dsalib",
+      "-incremental",
+      "-c",
+      "/Users/matrix01/Documents/Github/DSALib/Tests/DSALibTests/DSALibTests.swift",
+      "-I",
+      "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "dsalib",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "DSALib" : [
+
+    ],
+    "DSALibTests" : [
+      "DSALib"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/DSALib.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/Sources/DSALib/Sorting.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/sources"
+    },
+    "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/DSALib.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALib.build/Sorting.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/DSALibTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matrix01/Documents/Github/DSALib/Tests/DSALibTests/DSALibTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/DSALibTests.build/sources"
+    },
+    "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/matrix01/Documents/Github/DSALib/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
